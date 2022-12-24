@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chaitanyaprasad60
 - 👀 I’m interested in problem solving. 
--     I've done coding in python and SQL for last few years as a student.
-- 🌱 I’m currently learning Angular, Node JS.
+-     I’m a working proffesional in Angular, Node JS, mySQL techstack.
+- 🌱 I've love solving DSA in python.
 - 💞️ I’m looking to collaborate in Open Source Platforms in the above technologies
 
 <!---
