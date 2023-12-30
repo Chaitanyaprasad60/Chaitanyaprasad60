@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chaitanyaprasad60
-- 👀 I’m interested in problem solving. 
--     I’m a working proffesional in Angular, Node JS, mySQL techstack.
-- 🌱 I've love solving DSA in python.
+- 👀 I solve problems by leveraging domain expertise.
+-     I have 2.5+ years of professional experience in Angular, Node JS, and MySQL techstack.
+- 🌱 I have coded multiple projects in Python and I am proficient in DSA in Python.
 - 💞️ I’m looking to collaborate in Open Source Platforms in the above technologies
 
 <!---
