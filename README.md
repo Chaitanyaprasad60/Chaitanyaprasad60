@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Chaitanya</h1>
-<h3 align="center">A Experience Full-Stack Developer</h3>
-<img align="right" width="400" alt="Coding Image" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1AcYclv9Wl0VW0G9LHUKfo&ust=1707930015780000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCKj-kJ7lqIQDFQAAAAAdAAAAABAJ">
 
-- 📝 I regularly write articles on [https://chaitanyaperspective.substack.com/](https://chaitanyaperspective.substack.com/)
+<h1 align="center">Hi 👋, I'm Chaitanya Prasad</h1>
+<h3 align="center">Solving World's Problems using Code</h3>
+<img align="right" width="400" alt="Coding Image" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+
+- 📝 Blog with a fusion of programming and life lessons [Do Read Here!!!](https://chaitanyaperspective.substack.com/)
 
 - 📫 How to reach me **chaitanyaprasad60@gmail.com**
 
