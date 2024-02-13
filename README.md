@@ -1,4 +1,3 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM28gb5ZMSR8Hfr2gGmmhU3L5JL_qShe-ADw&usqp=CAU)](https://portfolio-chaitanya-sigma.vercel.app/)
 <h1 align="center">Hi 👋, I'm Chaitanya</h1>
 <h3 align="center">A Experience Full-Stack Developer</h3>
 <img align="right" width="400" alt="Coding Image" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1AcYclv9Wl0VW0G9LHUKfo&ust=1707930015780000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCKj-kJ7lqIQDFQAAAAAdAAAAABAJ">
